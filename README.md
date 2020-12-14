@@ -10,9 +10,7 @@ Problem definetion Data Evaluation Features Modelling Experimentation
 In a statement Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 2. Data
-The orignal data came from the Cleavland data from the UCI Machine learning Repository. https://archive.ics.uci.edu/ml/datasets/Heart+Disease
-
-  There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
+The orignal data came from the Cleavland data from the UCI Machine learning Repository. https://archive.ics.uci.edu/ml/datasets/Heart+Disease. There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
 
 3. Evaluation
 If we can reach 90% accuracy at predicting whether or not a patient has heart disease during the proof of concept , we'll pursue the project.
